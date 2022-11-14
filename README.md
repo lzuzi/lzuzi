@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/lzuzi/zuzi/main/zuzi.png" alt="zuzi" />
+  <img src="https://raw.githubusercontent.com/lzuzi/lzuzi/main/zuzi.png" alt="lzuzi" />
 </h1>
 
 ## Hey! 👋
