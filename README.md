@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lzuzi/lzuzi/main/zuzi.png" alt="lzuzi" />
 </h1>
 
-## Hey! 👋
+## Hey! 
 I'm zuzi, developer from Turkey.
 
 - 🧭 Founder at [@capslockgames2022](https://github.com/capslockgames2022)
