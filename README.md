@@ -10,9 +10,9 @@ I'm zuzi, developer from Turkey.
 - 👥 Core team member at [@capslockgames2022](https://github.com/capslockgames2022)
 
 ## Skills
-- 👨‍💻 HTML, BootStrap, C#
-- 👁️ SASS, CSS
-- 💽 MsSQL, MySQL
+- 👨‍💻 HTML, C#
+- 👁️ CSS
+- 💽 MsSQL
 
 ## Contact
 - [zuzi#7239](./) on Discord 
