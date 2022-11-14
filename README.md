@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/lzuzi/zuzi/main/zuzi.png" alt="zuzi" />
+</h1>
 
-<!--
-**lzuzi/lzuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm zuzi, developer from Turkey.
 
-Here are some ideas to get you started:
+- 🧭 Founder at [@capslockgames2022](https://github.com/capslockgames2022)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👥 Core team member at [@capslockgames2022](https://github.com/capslockgames2022)
+
+## Skills
+- 👨‍💻 HTML, BootStrap, C#
+- 👁️ SASS, CSS
+- 💽 MsSQL, MySQL
+
+## Contact
+- [zuzi#7239](./) on Discord 
