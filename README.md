@@ -13,6 +13,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -24,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/dilara-serra-%C5%9Fanal-65bb1527a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[https://www.gmail.com/dilaraserrasnl@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=GTvVlcSHvbGfGkZGRvWvQnzSqkKDBCnxKVvLnxDVhwfmDjrNhhmvLFZCDcGMmWPDndjmZgZsJgVSC)" target="_blank">
+  <a href="[dilaraserrasnl@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=GTvVlcSHvbGfGkZGRvWvQnzSqkKDBCnxKVvLnxDVhwfmDjrNhhmvLFZCDcGMmWPDndjmZgZsJgVSC)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="zuzi" target="_blank">
