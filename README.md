@@ -48,7 +48,9 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">GitHub Stats:</h2>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lzuzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
@@ -58,18 +60,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lzuzi/lzuzi/output/snake.svg" alt="Snake animation" />
+<p align="left">Profile views:</p>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lzuzi/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/lzuzi/count.svg?"  />
 
 ###
-
-
-
-
-
-
