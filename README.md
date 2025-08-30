@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">✨ I try to explore and learn every aspect of software because I want to be very successful in software in the future.<br>🎯 I am currently learning java and php</p>
+<p align="left">
+✨ I am passionate about software and eager to improve myself in every aspect of technology.<br>
+🎯 Currently focusing on enhancing my skills in data analysis and software development.<br><br>
+✨ Yazılıma tutkulu biriyim ve teknolojinin her alanında kendimi geliştirmeye hevesliyim.<br>
+🎯 Şu anda özellikle veri analizi ve yazılım geliştirme alanlarında yetkinliklerimi artırmaya odaklanıyorum.
+</p>
+
 
 ###
 
