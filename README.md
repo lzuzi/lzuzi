@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-- ⚡ **ASP.NET**  
+- ⚡ ** ASP.NET **  
   
 - 💻 **C#**
   
