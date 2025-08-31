@@ -50,11 +50,3 @@
 </div>
 
 ###
-
-<p align="left">Profile views:</p>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/lzuzi/count.svg?"  />
-
-###
